@@ -1,0 +1,8 @@
+Corretores ortográficos, hifenizadores e dicionários de sinónimos para Português de Portugal e Comunidades.
+
+Adiciona dicionários, hifenizadores e dicionários de sinónimos do seguinte modo:
+
+Português de Portugal : Versão pós-Acordo Ortográfico de 90;
+Português de Angola   : Versão pré-Acordo Ortográfico de 90 (Português de Portugal).
+
+Recomenda-se o LanguageTool como complemento gramatical 100% compatível com todas os idiomas suportados.

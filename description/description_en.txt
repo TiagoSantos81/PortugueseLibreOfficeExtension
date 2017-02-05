@@ -1,0 +1,8 @@
+Integrated Portuguese spellchecker, hyphenation dictionary and thesaurus.
+
+Adds spellcheckers, hyphenation dictionaries and thesaurus, in the following way:
+
+Portuguese (Portugal)   : Post 1990 Orthographical Agreement;
+Portuguese (Angola)     : Pre 1990 Orthographical Agreement (European Portuguese equivalent).
+
+LanguageTool is a free grammar and style proofreader that is 100% compatible.
