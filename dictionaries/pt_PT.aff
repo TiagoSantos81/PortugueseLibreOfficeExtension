@@ -6,6 +6,88 @@ WORDCHARS -
 
 NOSUGGEST Ý
 
+PFX 0 Y 80
+PFX 0   0               atto            [^rsho]           PFSEM=atto+
+PFX 0   0               atto-           [ho]              PFSEM=atto+
+PFX 0   0               attor           r                 PFSEM=atto+
+PFX 0   0               attos           s                 PFSEM=atto+
+PFX 0   0               centi           [^rshi]           PFSEM=centi+
+PFX 0   0               centi-          [hi]              PFSEM=centi+
+PFX 0   0               centir          r                 PFSEM=centi+
+PFX 0   0               centis          s                 PFSEM=centi+
+PFX 0   0               deca            [^rsha]           PFSEM=deca+
+PFX 0   0               deca-           [ha]              PFSEM=deca+
+PFX 0   0               decar           r                 PFSEM=deca+
+PFX 0   0               decas           s                 PFSEM=deca+
+PFX 0   0               deci            [^rshi]           PFSEM=deci+
+PFX 0   0               deci-           [hi]              PFSEM=deci+
+PFX 0   0               decir           r                 PFSEM=deci+
+PFX 0   0               decis           s                 PFSEM=deci+
+PFX 0   0               exa             [^rsha]           PFSEM=exa+
+PFX 0   0               exa-            [ha]              PFSEM=exa+
+PFX 0   0               exar            r                 PFSEM=exa+
+PFX 0   0               exas            s                 PFSEM=exa+
+PFX 0   0               femto           [^rsho]           PFSEM=femto+
+PFX 0   0               femto-          [ho]              PFSEM=femto+
+PFX 0   0               femtor          r                 PFSEM=femto+
+PFX 0   0               femtos          s                 PFSEM=femto+
+PFX 0   0               giga            [^rsha]           PFSEM=giga+
+PFX 0   0               giga-           [ha]              PFSEM=giga+
+PFX 0   0               gigar           r                 PFSEM=giga+
+PFX 0   0               gigas           s                 PFSEM=giga+
+PFX 0   0               hecto           [^rsho]           PFSEM=hecto+
+PFX 0   0               hecto-          [ho]              PFSEM=hecto+
+PFX 0   0               hector          r                 PFSEM=hecto+
+PFX 0   0               hectos          s                 PFSEM=hecto+
+PFX 0   0               mega            [^rsha]           PFSEM=mega+
+PFX 0   0               mega-           [ha]              PFSEM=mega+
+PFX 0   0               megar           r                 PFSEM=mega+
+PFX 0   0               megas           s                 PFSEM=mega+
+PFX 0   0               micro           [^rsho]           PFSEM=micro+
+PFX 0   0               micro-          [ho]              PFSEM=micro+
+PFX 0   0               micror          r                 PFSEM=micro+
+PFX 0   0               micros          s                 PFSEM=micro+
+PFX 0   0               mili            [^rshi]           PFSEM=mili+
+PFX 0   0               mili-           [hi]              PFSEM=mili+
+PFX 0   0               milir           r                 PFSEM=mili+
+PFX 0   0               milis           s                 PFSEM=mili+
+PFX 0   0               nano            [^rsho]           PFSEM=nano+
+PFX 0   0               nano-           [ho]              PFSEM=nano+
+PFX 0   0               nanor           r                 PFSEM=nano+
+PFX 0   0               nanos           s                 PFSEM=nano+
+PFX 0   0               peta            [^rsha]           PFSEM=peta+
+PFX 0   0               peta-           [ha]              PFSEM=peta+
+PFX 0   0               petar           r                 PFSEM=peta+
+PFX 0   0               petas           s                 PFSEM=peta+
+PFX 0   0               pico            [^rsho]           PFSEM=mega+
+PFX 0   0               pico-           [ho]              PFSEM=mega+
+PFX 0   0               picor           r                 PFSEM=mega+
+PFX 0   0               picos           s                 PFSEM=mega+
+PFX 0   0               quilo           [^rsho]           PFSEM=quilo+
+PFX 0   0               quilo-          [ho]              PFSEM=quilo+
+PFX 0   0               quilor          r                 PFSEM=quilo+
+PFX 0   0               quilos          s                 PFSEM=quilo+
+PFX 0   0               tera            [^rsha]           PFSEM=tera+
+PFX 0   0               tera-           [ha]              PFSEM=tera+
+PFX 0   0               terar           r                 PFSEM=tera+
+PFX 0   0               teras           s                 PFSEM=tera+
+PFX 0   0               yocto           [^rsho]           PFSEM=yocto+
+PFX 0   0               yocto-          [ho]              PFSEM=yocto+
+PFX 0   0               yoctor          r                 PFSEM=yocto+
+PFX 0   0               yoctos          s                 PFSEM=yocto+
+PFX 0   0               yota            [^rsha]           PFSEM=yotta+
+PFX 0   0               yota-           [ha]              PFSEM=yotta+
+PFX 0   0               yotar           r                 PFSEM=yotta+
+PFX 0   0               yotas           s                 PFSEM=yotta+
+PFX 0   0               zepto           [^rsho]           PFSEM=zepto+
+PFX 0   0               zepto-          [ho]              PFSEM=zepto+
+PFX 0   0               zeptor          r                 PFSEM=zepto+
+PFX 0   0               zeptos          s                 PFSEM=zepto+
+PFX 0   0               zetta           [^rsha]           PFSEM=zetta+
+PFX 0   0               zetta-          [ha]              PFSEM=zetta+
+PFX 0   0               zettar          r                 PFSEM=zetta+
+PFX 0   0               zettas          s                 PFSEM=zetta+
+
 PFX A Y 4
 PFX A   0               anti            [^hirs]         PFSEM=anti+
 PFX A   0               antir           r               PFSEM=anti+
@@ -1396,7 +1478,7 @@ SFX J   e               ito             [^ã]e           +CAT=nc,GR=dimito
 SFX J   o               ito             [^ã]o           +CAT=nc,GR=dimito
 SFX J   0               zito            ão              +CAT=nc,GR=dimito
 
-REP 944
+REP 945
 REP por pro
 REP pre per
 REP damente mente
