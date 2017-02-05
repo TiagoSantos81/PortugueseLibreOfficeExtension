@@ -6,7 +6,7 @@ This repository serves to aggregate and improve portuguese proofingtools in noth
 Extension distribution / Distribuição da extensão
 -------------------------------------------------
 
-Copyright (C) 2017 [Tiago F. Santos] <tiagofsantos81@sapo.pt>
+Copyright (C) 2017 Tiago F. Santos <tiagofsantos81@sapo.pt>
   https://github.com/TiagoSantos81/
 
 This program is free software; you can redistribute it and/or modify
@@ -47,8 +47,10 @@ Converted by		: Tiago F. Santos (tiagofsantos81 at sapo pt)
 
 First submitted on	: https://bugs.documentfoundation.org/show_bug.cgi?id=101616
 
-Based on		: custom [CONTO.PT] (http://ontopt.dei.uc.pt/) extraction 
+Based on		: custom [CONTO.PT] (http://ontopt.dei.uc.pt/) extraction
+
 Triples snapshot date	: 2016-08-19
+
 License			: CCA 3.0 Unported (Inherited)
 
 Many thanks to Dr. Hugo Gonçalo Oliveira, that made the snapshot available for this project, under the license Creative Commons Attribution 3.0 Unported.
