@@ -45,7 +45,7 @@ Thesaurus / Dicionário de sinónimos
 Converted by             : Tiago F. Santos (tiagofsantos81 at sapo pt)
 First submitted on       : https://bugs.documentfoundation.org/show_bug.cgi?id=101616
 Based on                 : custom CONTO.PT extraction (http://ontopt.dei.uc.pt/)
-Snapshot de triplos date : 2016-08-19
+Triples snapshot date    : 2016-08-19
 License                  : CCA 3.0 Unported (Inherited)
 
 Many thanks to Dr. Hugo Gonçalo Oliveira, that made the snapshot available for this project, under the license Creative Commons Attribution 3.0 Unported.
