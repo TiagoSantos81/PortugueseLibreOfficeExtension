@@ -1,5 +1,6 @@
-# Portuguese LibreOffice Extension
+# [Portuguese LibreOffice Extension] (https://github.com/TiagoSantos81/PortugueseLibreOfficeExtension/blob/master/DicionariosPortuguesesComplementares.oxt)
 
+Este repositório agrega todas as melhorias em ferramentas de verificação para a língua portuguesa (pre-AO90 e pos-AO90).
 This repository serves to aggregate and improve portuguese proofingtools in noth agreements (pre-AO90 and pos-AO90)
 
 Extension distribution / Distribuição da extensão
