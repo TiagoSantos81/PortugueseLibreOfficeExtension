@@ -473,7 +473,7 @@ SFX t   a               uistas          ga              +CAT=a_nc,N=p,FSEM=ista
 SFX t   e               istas           e               +CAT=a_nc,N=p,FSEM=ista
 SFX t   0               istas           [lr]            +CAT=a_nc,N=p,FSEM=ista
 
-SFX l Y 28
+SFX l Y 40
 SFX l   o               inho            [^cgçãi]o       +GR=dim
 SFX l   co              quinho          co              +GR=dim
 SFX l   ço              cinho           ço              +GR=dim
@@ -502,10 +502,24 @@ SFX l   ô               ozinhos         ô               +N=p,N=P,GR=dim
 SFX l   é               ezinhos         é               +G=m,N=p,GR=dim
 SFX l   ú               uzinhos         ú               +N=p,N=P,GR=dim
 SFX l   m               nzinhos         m               +G=m,N=p,GR=dim
+SFX l   0               zão             [^ãõ][^áâéêíîôóûúms]  +G=m,GR=aum
+SFX l   m               nzão            [^áâéêíîôóûú]m        +G=m,GR=aum
+SFX l   s               são             [^áâéêíîôóûú]s        +G=m,GR=aum
+SFX l   o               ão              [^ã]o                 +G=m,GR=aum
+SFX l   a               ão              a                     +G=m,GR=aum
+SFX l   0               ão              [lsz]                 +G=m,GR=aum
+SFX l   0               zãos            [^ãõ][^áâéêíîôóûúms]  +G=m,N=p,GR=aum
+SFX l   m               nzãos           [^áâéêíîôóûú]m        +G=m,N=p,GR=aum
+SFX l   s               sãos            [^áâéêíîôóûú]s        +G=m,N=p,GR=aum
+SFX l   o               ãos             [^ã]o                 +G=m,N=p,GR=aum
+SFX l   a               ãos             a                     +G=m,N=p,GR=aum
+SFX l   0               ãos             [lsz]                 +G=m,N=p,GR=aum
 
-SFX h Y 30
+SFX h Y 46
+
 SFX h   o               inha            [^cgçãi]o       +G=f,GR=dim
-SFX h   a               inha            [^çg]a          +G=f,GR=dim
+SFX h   a               inha            [^çgçi]a        +G=f,GR=dim
+SFX h   ia              iazinha         ia              +G=f,GR=dim
 SFX h   co              quinha          co              +G=f,GR=dim
 SFX h   ço              cinha           ço              +G=f,GR=dim
 SFX h   o               uinha           go              +G=f,GR=dim
@@ -520,7 +534,8 @@ SFX h   e               inha            [^ã]e           +G=f,GR=dim
 SFX h   0               zinha           [irunl]         +G=f,GR=dim
 SFX h   m               nzinha          m               +G=f,GR=dim
 SFX h   o               inhas           [^cgçãi]o       +G=f,N=p,GR=dim
-SFX h   a               inhas           [^çg]a          +G=f,N=p,GR=dim
+SFX h   a               inhas           [^çgçi]a        +G=f,N=p,GR=dim
+SFX h   ia              iazinhas        ia              +G=f,GR=dim
 SFX h   ca              quinhas         ca              +G=f,N=p,GR=dim
 SFX h   ça              cinhas          ça              +G=f,N=p,GR=dim
 SFX h   a               uinhas          ga              +G=f,N=p,GR=dim
@@ -534,6 +549,21 @@ SFX h   ão              õezinhas        ão              +G=f,N=P,GR=dim
 SFX h   e               inhas           [^ã]e           +G=f,N=p,GR=dim
 SFX h   0               zinhas          [irunl]         +G=f,N=p,GR=dim
 SFX h   m               nzinhas         m               +G=m,N=p,GR=dim
+SFX h   0               zona            [^ãõ][^áâéêíîoôóûúms] +G=f,GR=aum
+SFX h   m               nzona           [^áâéêíîôóûú]m        +G=f,GR=aum
+SFX h   s               sona            [^áâéêíîôóûú]s        +G=f,GR=aum
+SFX h   o               azona           [^ã]o                 +G=f,GR=aum
+SFX h   a               ona             a                     +G=f,GR=aum
+SFX h   o               ona             o                     +G=f,GR=aum
+SFX h   0               ona             [lsz]                +G=f,GR=aum
+SFX h   0               zonas           [^ãõ][^áâéêíîoôóûúms]  +G=f,N=p,GR=aum
+SFX h   m               nzonas          [^áâéêíîôóûú]m        +G=f,N=p,GR=aum
+SFX h   s               sonas           [^áâéêíîôóûú]s        +G=f,N=p,GR=aum
+SFX h   o               azonas          [^ã]o                 +G=f,N=p,GR=aum
+SFX h   a               onas            a                     +G=f,N=p,GR=aum
+SFX h   o               onas            o                     +G=f,N=p,GR=aum
+SFX h   0               onas            [lsz]                +G=f,N=p,GR=aum
+
 
 SFX z Y 8
 SFX z   0               zinho           [^ã][eo]        +GR=dim
