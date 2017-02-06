@@ -1,4 +1,8 @@
-This is a Portuguese (Portugal pre-AO90) dictionary for Hunspell:
+This is a Portuguese (Portugal) dictionary for Hunspell:
+
+Copyright (C) 2017- Tiago F. Santos (tiagofsantos81 at sapo pt) version available on: https://github.com/TiagoSantos81/PortugueseLibreOfficeExtension/
+
+Fork from version Dicionários Natura 2016.10.01.2 release
 
 Copyright (C) 2006-2012  José João de Almeida <jj@di.uminho.pt> , 
 	Rui Vilela <ruivilela@di.uminho.pt> ,
