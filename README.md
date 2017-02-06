@@ -21,7 +21,8 @@ Spellchecker / Corrector ortográfico
 Copyright (C) 2017-  Tiago F. Santos (tiagofsantos81 at sapo pt)
   version available on: https://github.com/TiagoSantos81/PortugueseLibreOfficeExtension/
 
-Based on Dicionários Natura
+Fork from version Dicionários Natura 2016.10.01.2 release
+
 Copyright (C) 2006  Jose Joao de Almeida <jj@di.uminho.pt> , Rui Vilela <ruivilela@di.uminho.pt> ,Alberto Simões <ambs@di.uminho.pt>
 
 All dictionary files and associated programs are currently covered
