@@ -516,7 +516,6 @@ SFX l   a               ãos             a                     +G=m,N=p,GR=aum
 SFX l   0               ãos             [lsz]                 +G=m,N=p,GR=aum
 
 SFX h Y 46
-
 SFX h   o               inha            [^cgçãi]o       +G=f,GR=dim
 SFX h   a               inha            [^çgçi]a        +G=f,GR=dim
 SFX h   ia              iazinha         ia              +G=f,GR=dim
@@ -563,7 +562,6 @@ SFX h   o               azonas          [^ã]o                 +G=f,N=p,GR=aum
 SFX h   a               onas            a                     +G=f,N=p,GR=aum
 SFX h   o               onas            o                     +G=f,N=p,GR=aum
 SFX h   0               onas            [lsz]                +G=f,N=p,GR=aum
-
 
 SFX z Y 8
 SFX z   0               zinho           [^ã][eo]        +GR=dim
