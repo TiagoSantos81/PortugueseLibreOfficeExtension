@@ -1,6 +1,6 @@
 # [Portuguese LibreOffice Extension] (https://github.com/TiagoSantos81/PortugueseLibreOfficeExtension/raw/master/DicionariosPortuguesesComplementares.oxt)
 
-# [Portuguese Firefox pre-AO90 Dictionary] (https://github.com/TiagoSantos81/PortugueseLibreOfficeExtension/raw/master/FirefoxDictionar.xpi)
+# [Portuguese Firefox pre-AO90 Dictionary] (https://github.com/TiagoSantos81/PortugueseLibreOfficeExtension/raw/master/FirefoxDictionary.xpi)
 
 Este repositório agrega todas as melhorias em ferramentas de verificação para a língua portuguesa (pre-AO90 e pos-AO90).
 This repository aggregates and improves portuguese proofingtools in both agreements (pre-AO90 and pos-AO90)
