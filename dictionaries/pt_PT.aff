@@ -479,7 +479,7 @@ SFX l   co              quinho          co              +GR=dim
 SFX l   ço              cinho           ço              +GR=dim
 SFX l   o               uinho           go              +GR=dim
 SFX l   0               zinho           ão              +GR=dim
-SFX l   e               inho            e               +G=m,GR=dim
+SFX l   e               ezinho          e               +G=m,GR=dim
 SFX l   0               inho            [^ê][sz]        +G=m,GR=dim
 SFX l   ês              esinho          ês              +GR=dim
 SFX l   0               zinho           [irunl]         +G=m,GR=dim
@@ -493,7 +493,7 @@ SFX l   co              quinhos         co              +N=p,N=P,GR=dim
 SFX l   ço              cinhos          ço              +N=p,N=P,GR=dim
 SFX l   o               uinhos          go              +N=p,N=P,GR=dim
 SFX l   ão              õezinhos        ão              +N=p,N=P,GR=dim
-SFX l   e               inhos           e               +G=m,N=p,GR=dim
+SFX l   e               ezinhos         e               +G=m,N=p,GR=dim
 SFX l   0               inhos           [^ê][sz]        +G=m,N=p,GR=dim
 SFX l   ês              esinhos         ês              +N=p,N=P,GR=dim
 SFX l   0               zinhos          [irunl]         +G=m,N=p,GR=dim
@@ -529,7 +529,7 @@ SFX h   á               azinha          á               +G=f,GR=dim
 SFX h   ã               azinha          ã               +G=f,GR=dim
 SFX h   0               zinha           ãe              +G=f,GR=dim
 SFX h   0               zinha           ão              +G=f,GR=dim
-SFX h   e               inha            [^ã]e           +G=f,GR=dim
+SFX h   e               ezinha          [^ã]e           +G=f,GR=dim
 SFX h   0               zinha           [irunl]         +G=f,GR=dim
 SFX h   m               nzinha          m               +G=f,GR=dim
 SFX h   o               inhas           [^cgçãi]o       +G=f,N=p,GR=dim
@@ -545,7 +545,7 @@ SFX h   á               azinhas         á               +G=f,N=p,GR=dim
 SFX h   ã               azinhas         ã               +G=f,N=p,GR=dim
 SFX h   0               zinhas          ãe              +G=f,N=p,GR=dim
 SFX h   ão              õezinhas        ão              +G=f,N=P,GR=dim
-SFX h   e               inhas           [^ã]e           +G=f,N=p,GR=dim
+SFX h   e               ezinhas         [^ã]e           +G=f,N=p,GR=dim
 SFX h   0               zinhas          [irunl]         +G=f,N=p,GR=dim
 SFX h   m               nzinhas         m               +G=m,N=p,GR=dim
 SFX h   0               zona            [^ãõ][^áâéêíîoôóûúms] +G=f,GR=aum
