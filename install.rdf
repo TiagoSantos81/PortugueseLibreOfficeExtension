@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <RDF:Description about="urn:mozilla:install-manifest">
+  <!-- https://developer.mozilla.org/en/Install.rdf -->
+
+    <em:id>pt-PT@dictionaries.addons.mozilla.org</em:id>
+    <em:type>64</em:type>
+    <em:version>1.1.1</em:version>
+    <em:name>Corretor para Português de Portugal</em:name>
+    <em:description>Portuguese, Portugal (pt-PT) Dictionary</em:description>
+    <em:unpack>true</em:unpack>
+
+    <em:creator>Dicionários Portugueses Complementares</em:creator>
+    <em:developer>Tiago F. Santos</em:developer>
+    <em:homepageURL>https://github.com/TiagoSantos81</em:homepageURL>
+
+    <em:contributor>Alberto Simões (Dicionários Natura base)</em:contributor>
+    <em:contributor>António Manuel Dias (Dicionários Natura base)</em:contributor>
+    <em:contributor>José João de Almeida (Dicionários Natura base)</em:contributor>
+    <em:contributor>Rui Vilela (Dicionários Natura base)</em:contributor>
+
+    <em:localized>
+      <RDF:Description>
+        <em:locale>pt-PT</em:locale>
+        <em:name>Corretor para Português de Portugal</em:name>
+        <em:description>Corretor ortográfico para português de Portugal (pt-PT)</em:description>
+        <em:creator>Dicionários Portugueses Complementar</em:creator>
+        <em:developer>Tiago F. Santos</em:developer>Alberto Simões
+        <em:contributor>Alberto Simões (Dicionários Natura base)</em:contributor>
+        <em:contributor>António Manuel Dias (Dicionários Natura base)</em:contributor>
+        <em:contributor>José João de Almeida (Dicionários Natura base)</em:contributor>
+        <em:contributor>Rui Vilela (Dicionários Natura base)</em:contributor>
+        <em:homepageURL>https://github.com/TiagoSantos81</em:homepageURL>
+      </RDF:Description>
+    </em:localized>
+
+    <!-- toolkit -->
+    <em:targetApplication>
+      <RDF:Description>
+        <em:id>toolkit@mozilla.org</em:id>
+        <em:minVersion>1.9</em:minVersion>
+        <em:maxVersion>52.*</em:maxVersion>
+      </RDF:Description>
+    </em:targetApplication>
+
+    <!-- firefox -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>3.0</em:minVersion>
+        <em:maxVersion>52.0a1</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+
+    <!-- thunderbird -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+        <em:minVersion>3.0</em:minVersion>
+        <em:maxVersion>52.0a1</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+
+    <!-- SeaMonkey -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
+        <em:minVersion>2.1</em:minVersion>
+        <em:maxVersion>2.42</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+
+
+  </RDF:Description>
+</RDF:RDF>1
