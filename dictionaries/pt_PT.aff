@@ -473,16 +473,15 @@ SFX t   a               uistas          ga              +CAT=a_nc,N=p,FSEM=ista
 SFX t   e               istas           e               +CAT=a_nc,N=p,FSEM=ista
 SFX t   0               istas           [lr]            +CAT=a_nc,N=p,FSEM=ista
 
-SFX l Y 40
+SFX l Y 38
 SFX l   o               inho            [^cgçãi]o       +GR=dim
 SFX l   co              quinho          co              +GR=dim
 SFX l   ço              cinho           ço              +GR=dim
 SFX l   o               uinho           go              +GR=dim
 SFX l   0               zinho           ão              +GR=dim
-SFX l   e               ezinho          e               +G=m,GR=dim
 SFX l   0               inho            [^ê][sz]        +G=m,GR=dim
 SFX l   ês              esinho          ês              +GR=dim
-SFX l   0               zinho           [irunl]         +G=m,GR=dim
+SFX l   0               zinho           [eirunl]         +G=m,GR=dim
 SFX l   ó               ozinho          ó               +GR=dim
 SFX l   ô               ozinho          ô               +GR=dim
 SFX l   é               ezinho          é               +G=m,GR=dim
@@ -493,10 +492,9 @@ SFX l   co              quinhos         co              +N=p,N=P,GR=dim
 SFX l   ço              cinhos          ço              +N=p,N=P,GR=dim
 SFX l   o               uinhos          go              +N=p,N=P,GR=dim
 SFX l   ão              õezinhos        ão              +N=p,N=P,GR=dim
-SFX l   e               ezinhos         e               +G=m,N=p,GR=dim
 SFX l   0               inhos           [^ê][sz]        +G=m,N=p,GR=dim
 SFX l   ês              esinhos         ês              +N=p,N=P,GR=dim
-SFX l   0               zinhos          [irunl]         +G=m,N=p,GR=dim
+SFX l   0               zinhos          [eirunl]        +G=m,N=p,GR=dim
 SFX l   ó               ozinhos         ó               +N=p,N=P,GR=dim
 SFX l   ô               ozinhos         ô               +N=p,N=P,GR=dim
 SFX l   é               ezinhos         é               +G=m,N=p,GR=dim
