@@ -8,7 +8,7 @@ This repository aggregates and improves portuguese proofingtools in both agreeme
 Extension distribution / Distribuição da extensão
 -------------------------------------------------
 
-Copyright (C) 2017 Tiago F. Santos <tiagofsantos81@sapo.pt>
+Copyright (C) 2017-2019 Tiago F. Santos (tiagofsantos81 at sapo pt)
   https://github.com/TiagoSantos81/
 
 This program is free software; you can redistribute it and/or modify
@@ -20,7 +20,7 @@ the Free Software Foundation; either version 2 of the License, or
 Spellchecker / Corrector ortográfico (Firefox add-on and LibreOffice Extension)
 -----------------------------------------------------------------------------
 
-Modifications Copyright (C) 2017-  Tiago F. Santos (tiagofsantos81 at sapo pt)
+Modifications Copyright (C) 2017-2019  Tiago F. Santos (tiagofsantos81 at sapo pt)
   version available on: https://github.com/TiagoSantos81/PortugueseLibreOfficeExtension/
 
 Fork from version Dicionários Natura 2016.10.01.2 release
