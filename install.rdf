@@ -7,7 +7,7 @@
 
     <em:id>pt-PT@dictionaries.addons.mozilla.org</em:id>
     <em:type>64</em:type>
-    <em:version>3.0</em:version>
+    <em:version>3.1</em:version>
     <em:name>Corretor para Português de Portugal</em:name>
     <em:description>Portuguese, Portugal (pt-PT) Dictionary</em:description>
     <em:unpack>true</em:unpack>
@@ -68,7 +68,7 @@
       <Description>
         <em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
         <em:minVersion>2.1</em:minVersion>
-        <em:maxVersion>2.42</em:maxVersion>
+        <em:maxVersion>3.42</em:maxVersion>
       </Description>
     </em:targetApplication>
 
